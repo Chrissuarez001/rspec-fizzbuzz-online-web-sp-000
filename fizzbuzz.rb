@@ -6,4 +6,3 @@ elsif (num % 3 == 0)
 elsif (num % 5 == 0)
 return "Buzz"
 end
-end
